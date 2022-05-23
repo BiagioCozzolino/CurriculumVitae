@@ -1,9 +1,20 @@
 .text-center{
     text-align: center;
 }
+h2{
+    color: goldenrod;
+}
+h3{
+    font-style: italic;
+}
 /*Stile Header*/
 header{
     background-color: #ededed;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    border-bottom-color: goldenrod;
+}
+main{
     border-bottom-width: 2px;
     border-bottom-style: solid;
     border-bottom-color: goldenrod;
