@@ -1,3 +1,4 @@
+/*Inizio comandi Commons*/
 .text-center{
     text-align: center;
 }
@@ -7,6 +8,7 @@ h2{
 h3{
     font-style: italic;
 }
+/*Fine comandi Commons*/
 /*Stile Header*/
 header{
     background-color: #ededed;
@@ -14,12 +16,19 @@ header{
     border-bottom-style: solid;
     border-bottom-color: goldenrod;
 }
+/*Fine Header*/
+/*Inizo Main*/
 main{
     border-bottom-width: 2px;
     border-bottom-style: solid;
     border-bottom-color: goldenrod;
 }
-/*Fine Header*/
+/*Fine Main*/
+/*Inizio Footer*/
+footer{
+    font-size: 10px;
+}
+/*Fine Footer*/
 
 /*Stile immagine profilo*/
 #immagineprofilo {
