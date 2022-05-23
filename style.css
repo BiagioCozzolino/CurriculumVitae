@@ -1,0 +1,22 @@
+.text-center{
+    text-align: center;
+}
+/*Stile Header*/
+header{
+    background-color: #ededed;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    border-bottom-color: goldenrod;
+}
+/*Fine Header*/
+
+/*Stile immagine profilo*/
+#immagineprofilo {
+    height: 250px;
+    
+}
+/*Fine immagine profilo*/
+
+hr {
+    color: #ffff00;
+}
